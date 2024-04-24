@@ -1,0 +1,12 @@
+Sotanito=20
+Fulanito=22
+Menganito=23
+Fulgencio=22
+Margarito=24
+Rumiantro=23
+Sotanita=20
+Fulanita=22
+Menganita=23
+Fulgencia=22
+Margarita=24
+Rumiantra=23
